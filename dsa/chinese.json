@@ -246,42 +246,42 @@
       "draft_space_tree00_text":"一些用来保持殖民开心用的假树",
       "moon_region_unsupported":"很遗憾，尚不支持月球区域。该城市现在将关闭。",
 
-      //work in progress, do not translate
-      "draft_space_storyline_cancel00":"I'm sorry, but I won't tell you anything!",
-      "draft_space_storyline_busy00":"I'm sorry, but I have nothing to tell you at this time.",
-      "draft_space_storyline_intro00":"Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!",
-      "draft_space_storyline_intro01":"Please do not attack us. We came here with peace.",
-      "draft_space_storyline_intro02":"Well, crashed would be more fitting.",
-      "draft_space_storyline_intro03":"We trust you won't hurt us. Do we trust right?",
-      "draft_space_storyline_intro_refused00":"Very well. You may do whatever you want to us, however we won't tell you anything.",
-      "draft_space_storyline_intro_affirmed00":"That is great. Now allow me to introduce myself.",
-      "draft_space_storyline_intro_affirmed01":"I am Cocumba - leader of the 2nd quarter of cucumpickle galaxy before it got destroyed.",
-      "draft_space_storyline_intro_affirmed02":"All we need is a little help. In return you may have all our knowledge.",
-      "draft_space_storyline_intro_affirmed03":"Now allow me to rest. We will contact you soon.",
-      "draft_space_storyline_stage_2_00":"todo: money",
-      "draft_space_storyline_stage_3_00":"todo: artifacts",
+      
+      "draft_space_storyline_cancel00":"很抱歉，但我不会告诉你任何事！",
+      "draft_space_storyline_busy00":"对不起，我现在没啥要跟你说的.",
+      "draft_space_storyline_intro00":"你好啊!",
+      "draft_space_storyline_intro01":"请不要攻击我们，我们很友好.",
+      "draft_space_storyline_intro02":"Emm，或许坠毁会更合适.",
+      "draft_space_storyline_intro02":"我相信你不会攻击我们的，对不",
+      "draft_space_storyline_intro_refused00":"很好。你可以对我们做任何你想做的事，但是我们会守口如瓶，不会告诉你任何事的。.",
+      "draft_space_storyline_intro_affirmed00":"太好了。现在请允许我自我介绍一下。",
+      "draft_space_storyline_intro_affirmed01":"我是科昆巴-库比克星系第二任的领导者，当然是指在它被摧毁之前.",
+      "draft_space_storyline_intro_affirmed02":"我们只需要一点帮助。作为回报，你可以拥有我们所有的知识.",
+      "draft_space_storyline_intro_affirmed03":"现在请让我休息一下。我们会尽快与您联系。.",
+      "draft_space_storyline_stage_2_00":"todo: 金钱",
+      "draft_space_storyline_stage_3_00":"todo: 史前古物",
       "draft_space_storyline_stage_4_00":"todo: poccolonum",
       "draft_space_storyline_stage_5_00":"todo: ",
       "draft_space_storyline_stage_6_00":"todo: ",
       "draft_space_storyline_stage_7_00":"todo: ",
-      //first quest
+      //第一次探索
 
-      //second quest
+      //第二次探索
 
-      //third quest
+      //第三次探索
 
 
-      //final stage
-      "draft_space_storyline_stage_8_00":"Thank you for <quest 6 completion>. That'll come in handy!",
-      "draft_space_storyline_stage_8_01":"However, I'm afraid this is the last time we're seeing each other.",
-      "draft_space_storyline_stage_8_02":"We are now ready to return to our home galaxy and rebuild it, provided that there's something left.",
-      "draft_space_storyline_stage_8_03":"When you can, please assemble the spaceship. We'll board it on our own.",
-      //rocket boarded
-      "draft_space_storyline_ending_00":"Guess this is it. Thank you very much for helping us.",
-      "draft_space_storyline_ending_01":"In return, we would like to give you this storage medium.",
-      "draft_space_storyline_ending_02":"It contains all our recorded knowledge.",
-      "draft_space_storyline_ending_03":"Once you're ready, initiate the starshot.",
-      "draft_space_storyline_ending_04":"Farewell, friends!"
+      //最终阶段
+      "draft_space_storyline_stage_8_00":"感谢你<完成任务6>，那将会派上用场的!",
+      "draft_space_storyline_stage_8_01":"不过，恐怕这是我们最后一次相见了。.",
+      "draft_space_storyline_stage_8_02":"我们现在已经准备好返回我们的银河系并重建它，前提是还剩一些东西.",
+      "draft_space_storyline_stage_8_03":"如果可以的话，请组装宇宙飞船。我们会自己登上飞船.",
+      //登上火箭
+      "draft_space_storyline_ending_00":"我猜就是这样。非常感谢你帮助我们.",
+      "draft_space_storyline_ending_01":"作为回报，我们想把这个储存介质赠予你.",
+      "draft_space_storyline_ending_02":"它包含了我们所有记录在案的知识.",
+      "draft_space_storyline_ending_03":"一旦你准备好了，就可以开始星际大战.",
+      "draft_space_storyline_ending_04":"再会了，旁友!"
     }
   }
 ]
